@@ -126,3 +126,9 @@ figure.snip1104.hover:before {
   -webkit-transform: rotate(110deg) translateY(-150%);
   transform: rotate(110deg) translateY(-150%);
 }
+
+#box1{
+  width: 50px;
+  height: 200px;
+  border: 1px solid black;
+}
