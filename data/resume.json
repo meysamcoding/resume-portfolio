@@ -1,0 +1,201 @@
+{
+  "personal": {
+  "name": "Meysam Najafitavani",
+  "title": "Senior Frontend Engineer",
+  "location": "Los Angeles, CA",
+  "phone": "(323) 703-8988",
+  "email": "meysamnajafi67@yahoo.com",
+  "github": "https://github.com/meysamcoding",
+  "linkedin": "https://www.linkedin.com/in/meysamnajafi/",
+  "summary": "Senior Frontend Engineer with 8+ years of experience building scalable web applications using React, TypeScript, Next.js, and modern frontend technologies. Experienced in Microfrontend Architecture, Module Federation, AEM, and enterprise application development. Passionate about creating high-performance, user-friendly, and maintainable solutions while collaborating with cross-functional teams to deliver business value."
+
+},
+  "experience": [
+    {
+      "company": "Humana — Contract through Deloitte, Remote",
+      "role": "Senior Front-end Developer with React",
+      "period": "April 2026 - present",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Vite",
+        "Module Federation",
+        "AEM"
+      ],
+      "description": "Humana is a leading U.S. healthcare and health insurance company serving millions of members through Medicare, Medicaid, and commercial health plans.",
+      "responsibilities": [
+        "Led React microfrontend development using Next.js, Vite, and Module Federation.",
+        "Published and consumed remote modules through Module Federation Catalog.",
+        "Built reusable Lit Web Components and shared frontend utilities.",
+        "Maintained global SCSS and Tailwind CSS architecture.",
+        "Integrated AEM-driven module fragments for content-managed experiences.",
+        "Supported technical guidance, onboarding, and feature delivery planning."
+      ]
+    },
+    {
+      "company": "Infosys, Austin, TX",
+      "role": "Senior Front-end Developer with React",
+      "period": "Sep 2025 - March 2026",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Figma",
+        "Tailwind CSS",
+        "Developed mobile-first UI"
+      ],
+      "description": "Infosys is a global technology consulting and digital services company that helps enterprises modernize applications, cloud infrastructure, and business processes.",
+      "responsibilities": [
+        "Developed mobile-first UI using React, TypeScript, Tailwind CSS, and SCSS.",
+        "Built reusable components with scalable frontend architecture.",
+        "Converted Figma designs into production-ready UI components.",
+        "Integrated REST APIs and optimized frontend performance.",
+        "Applied accessibility and responsive design best practices."
+      ]
+    },
+    {
+      "company": "CVS Health, Dallas, TX",
+      "role": "Frontend Developer",
+      "period": "Sep 2021 - April 2025",
+      "technologies": [
+        "React",
+        "Redux",
+        "TypeScript",
+        "Stencil",
+        "RestFul APIs",
+        "SASS"
+      ],
+      "description": "The Search Optimization Team brings new tech modernization and advanced technologies into various aspects of CVS codebase. This includes upgrading and improving systems, processes, and infrastructure to increase the efficiency of websites.",
+      "responsibilities": [
+        "Developed React, Redux, TypeScript, Stencil, Tailwind, and SASS applications.",
+        "Integrated Contentful CMS for dynamic content management.",
+        "Built reusable components across multiple microfrontend repositories.",
+        "Improved CI/CD pipelines using Jenkins, Harness, GitHub Actions, and JFrog.",
+        "Optimized performance, SEO, analytics tracking, and GTM implementation.",
+        "Completed unit and E2E testing using Jest and React Testing Library."
+      ]
+    },
+    {
+      "company": "Illuminate Education, Los Angeles, CA",
+      "role": "Frontend Developer",
+      "period": "May 2020 - Sep 2021",
+      "technologies": [
+        "React",
+        "Redux",
+        "TypeScript",
+        "Material UI"
+      ],
+      "description": "Developed and enhanced educational data visualization applications that helped educators track student performance and make data-driven decisions.",
+      "responsibilities": [
+        "Developed scalable SPAs using React, Redux, TypeScript, and Material UI.",
+        "Built dashboards and reusable UI components with React Hooks and Highcharts.",
+        "Integrated REST APIs and client-side routing.",
+        "Improved performance, accessibility, SEO, and analytics tracking."
+      ]
+    },
+    {
+      "company": "iShowcase, Inc, Woodland Hills, CA",
+      "role": "Frontend Developer",
+      "period": "Nov 2017 - April 2020",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "description": "Developed and maintained responsive React-based websites and UI components for jewelry industry clients, focusing on product integration, performance, and user experience.",
+      "responsibilities": [
+        "Built mobile-first responsive interfaces using React, JavaScript, HTML, and CSS.",
+        "Implemented client-side validation with React, JavaScript, GraphQL, and jQuery.",
+        "Created cross-browser compatible layouts using CSS3 and Bootstrap.",
+        "Worked with clients to gather requirements and support website delivery."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "UCLA Extension",
+      "degree": "Full Stack Web Development Certificate",
+      "location": "Los Angeles, CA",
+      "year": "2019 - 2020",
+      "description": "HTML5, CSS3, JavaScript, React, Node.js, MongoDB, Express, MySQL"
+    },
+    {
+      "school": "Los Angeles Pierce College",
+      "degree": "Web Development Certificate",
+      "location": "Woodland Hills, CA",
+      "year": "2018 - 2020",
+      "description": "Web development, server-side programming, and website administration"
+    },
+    {
+      "school": "Azad Ramsar University",
+      "degree": "Bachelor of Science, Computer Engineering",
+      "location": "Ramsar, Iran",
+      "year": "2012",
+      "description": "Computer Engineering"
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Redux",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "SCSS"
+    ],
+    "architecture": [
+      "Microfrontends",
+      "Module Federation",
+      "AEM",
+      "Lit Web Components"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Azure DevOps",
+      "Jenkins",
+      "Webpack",
+      "Vite"
+    ],
+    "testing": [
+      "Jest",
+      "React Testing Library",
+      "Cypress"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Compliance Portal",
+      "github": "https://github.com/meysamcoding/compliance-portal",
+      "live": "https://compliance-portal-law.vercel.app/",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Supabase",
+        "Tailwind CSS"
+      ],
+      "description": "Full-stack compliance portal with authentication, document management, and role-based access control."
+    },
+    {
+      "title": "Fitness App",
+      "demo": "https://meysamcoding.github.io/fitness-app/",
+      "github": "https://github.com/meysamcoding/fitness-app",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "SASS"
+      ],
+      "description": "Responsive fitness application with training schedules and product catalog."
+    }
+  ],
+  "interests": {
+    "paragraph1": "Outside of software development, I enjoy exploring the outdoors through camping, hiking, fishing, and road trips across California and the western United States.",
+    "paragraph2": "I also enjoy working on personal technology projects, learning new web technologies, and building applications with modern frontend frameworks."
+  }
+}
